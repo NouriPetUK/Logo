@@ -1,4 +1,6 @@
-# NouriPet logos
+# NouriPet logos (media pack)
+
+**Download everything:** https://github.com/NouriPetUK/Logo/archive/refs/heads/main.zip
 
 The current NouriPet logo files. The masters live with the brand team; this repository mirrors them
 so there is one public place to link to.
@@ -18,9 +20,8 @@ so there is one public place to link to.
 **Rules of use:** keep the icon and wordmark together, do not stretch, recolour, rotate or add
 effects, and do not place the teal logo on a teal or mid-tone background.
 
-**Legacy files in the root** (`nouripet-logo.png`, `nouripet-email-footer.png`) date from March 2026.
-They stay at their original addresses because an email footer links to them directly. Use the
-folders above for anything new.
+**`nouripet-logo.png` in the root** is the current stacked teal logo at 300 x 300, kept at this address because
+NouriPet's email footer loads it from here. For anything else, use the folders above.
 
 NouriPet and the NouriPet logo are trade marks of NouriPet Ltd (UK00004428604, UK00004443143).
 These files are published for reference and for use by NouriPet's partners with permission.
