@@ -24,5 +24,16 @@ effects, and do not place the teal logo on a teal or mid-tone background.
 NouriPet's email footer loads it from here. For anything else, use the folders above.
 
 NouriPet and the NouriPet logo are trade marks of NouriPet Ltd (UK00004428604, UK00004443143).
-These files are published for reference and for use by NouriPet's partners with permission.
-They are not offered under an open licence.
+**Licence.** The primary logo, the horizontal teal lockup on a transparent background
+(`svg/NouriPet_LOGO_hor_teal_transparent.svg`), is released by NouriPet Ltd under the
+[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licence.
+The same file is on Wikimedia Commons as
+[File:NouriPet logo.svg](https://commons.wikimedia.org/wiki/File:NouriPet_logo.svg). You may copy and
+reuse that file with credit to NouriPet Ltd.
+
+That licence covers copyright only. It does not give anyone the right to use the NouriPet name or logo
+as a trade mark, for example in a way that suggests goods or services come from, or are endorsed by,
+NouriPet Ltd.
+
+The other files in this repository are published for reference and for use by NouriPet's partners
+with permission.
